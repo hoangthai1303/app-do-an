@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://hoangthai1303.github.io/nay-cha-an-gi-nao/static/css/main.073c9b0a.css",
-    "main.js": "https://hoangthai1303.github.io/nay-cha-an-gi-nao/static/js/main.bd34b4e6.js",
+    "main.css": "https://hoangthai1303.github.io/nay-cha-an-gi-nao/static/css/main.72e3d67b.css",
+    "main.js": "https://hoangthai1303.github.io/nay-cha-an-gi-nao/static/js/main.9dfe9f03.js",
     "static/js/787.2c0990d7.chunk.js": "https://hoangthai1303.github.io/nay-cha-an-gi-nao/static/js/787.2c0990d7.chunk.js",
     "index.html": "https://hoangthai1303.github.io/nay-cha-an-gi-nao/index.html",
-    "main.073c9b0a.css.map": "https://hoangthai1303.github.io/nay-cha-an-gi-nao/static/css/main.073c9b0a.css.map",
-    "main.bd34b4e6.js.map": "https://hoangthai1303.github.io/nay-cha-an-gi-nao/static/js/main.bd34b4e6.js.map",
+    "main.72e3d67b.css.map": "https://hoangthai1303.github.io/nay-cha-an-gi-nao/static/css/main.72e3d67b.css.map",
+    "main.9dfe9f03.js.map": "https://hoangthai1303.github.io/nay-cha-an-gi-nao/static/js/main.9dfe9f03.js.map",
     "787.2c0990d7.chunk.js.map": "https://hoangthai1303.github.io/nay-cha-an-gi-nao/static/js/787.2c0990d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bd34b4e6.js"
+    "static/css/main.72e3d67b.css",
+    "static/js/main.9dfe9f03.js"
   ]
 }
